@@ -27,7 +27,7 @@ Although the algorithm reasonably estimates background noise, it does not comple
 
 ## Phoneme Segmentation
 
-The `cut_phonemes` function is used to segment phonemes from the signal. The segmentation process follows these steps:
+The `recorte_while` function is used to segment phonemes from the signal. The segmentation process follows these steps:
 
 1. Determine the maximum noise level from the silent portion.
 2. Define a threshold as three times the maximum noise.
