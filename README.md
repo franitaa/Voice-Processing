@@ -1,4 +1,4 @@
-# Voice-Processing: Phoneme Analysis and Noise Reduction
+# Voice Processing: Phoneme Analysis and Noise Reduction
 
 This project focuses on the comprehensive processing of audio signals, particularly aimed at conditioning and characterizing phonemes for further analysis.
 
